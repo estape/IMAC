@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7hiXTVrqp1+MMsX8MIWNPYjztO7nArPFW95jB2gZvMeDNKPU30I3lqX/8UD1SlMsRPzYxdMNy3hqmj92IyuVrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rodrigo\\SkyDrive\\Documentos\\Game_Dev\\VisualStudio\\IMAC\\IMAC\\IMAC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rodrigo\\.nuget\\packages\\microsoft.web.webview2\\1.0.1823.32\\microsoft.web.webview2.1.0.1823.32.nupkg.sha512"
+  ],
+  "logs": []
+}

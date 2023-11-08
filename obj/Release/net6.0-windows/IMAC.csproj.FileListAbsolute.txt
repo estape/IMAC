@@ -1,0 +1,145 @@
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\IMAC.exe
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\IMAC.deps.json
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\IMAC.runtimeconfig.json
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\IMAC.dll
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\IMAC.pdb
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\MainWindow.g.cs
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\App.g.cs
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC_Content.g.cs
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC_MarkupCompile.cache
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC_MarkupCompile.lref
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\MainWindow.baml
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.g.resources
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.AssemblyInfo.cs
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.csproj.CopyComplete
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.dll
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\refint\IMAC.dll
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.pdb
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.genruntimeconfig.cache
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\ref\IMAC.dll
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\bin\Release\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\bin\Release\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\bin\Release\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\bin\Release\net6.0-windows\IMAC.exe
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\bin\Release\net6.0-windows\IMAC.deps.json
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\bin\Release\net6.0-windows\IMAC.runtimeconfig.json
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\bin\Release\net6.0-windows\IMAC.dll
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\bin\Release\net6.0-windows\IMAC.pdb
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\bin\Release\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\bin\Release\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\bin\Release\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\obj\Release\net6.0-windows\IMAC.csproj.AssemblyReference.cache
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\obj\Release\net6.0-windows\MainWindow.g.cs
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\obj\Release\net6.0-windows\App.g.cs
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\obj\Release\net6.0-windows\IMAC_Content.g.cs
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\obj\Release\net6.0-windows\IMAC_MarkupCompile.cache
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\obj\Release\net6.0-windows\IMAC_MarkupCompile.lref
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\obj\Release\net6.0-windows\MainWindow.baml
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\obj\Release\net6.0-windows\IMAC.g.resources
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\obj\Release\net6.0-windows\IMAC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\obj\Release\net6.0-windows\IMAC.AssemblyInfoInputs.cache
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\obj\Release\net6.0-windows\IMAC.AssemblyInfo.cs
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\obj\Release\net6.0-windows\IMAC.csproj.CoreCompileInputs.cache
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\obj\Release\net6.0-windows\IMAC.csproj.CopyComplete
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\obj\Release\net6.0-windows\IMAC.dll
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\obj\Release\net6.0-windows\refint\IMAC.dll
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\obj\Release\net6.0-windows\IMAC.pdb
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\obj\Release\net6.0-windows\IMAC.genruntimeconfig.cache
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\OldIMAC\IMAC\obj\Release\net6.0-windows\ref\IMAC.dll
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\IMAC.exe
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\IMAC.deps.json
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\IMAC.runtimeconfig.json
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\IMAC.dll
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\IMAC.pdb
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.csproj.AssemblyReference.cache
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\MainWindow.g.cs
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\App.g.cs
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC_Content.g.cs
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC_MarkupCompile.cache
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC_MarkupCompile.lref
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\MainWindow.baml
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.g.resources
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.AssemblyInfoInputs.cache
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.AssemblyInfo.cs
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.csproj.CoreCompileInputs.cache
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.csproj.CopyComplete
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.dll
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\refint\IMAC.dll
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.pdb
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.genruntimeconfig.cache
+E:\Rodrigo\OneDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\ref\IMAC.dll
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\MainWindow.g.cs
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\App.g.cs
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC_Content.g.cs
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC_MarkupCompile.cache
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC_MarkupCompile.lref
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\MainWindow.baml
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\IMAC.exe
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\IMAC.deps.json
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\IMAC.runtimeconfig.json
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\IMAC.dll
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\IMAC.pdb
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.g.resources
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.AssemblyInfo.cs
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.csproj.CopyComplete
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.dll
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\refint\IMAC.dll
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.pdb
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.genruntimeconfig.cache
+C:\Users\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\ref\IMAC.dll
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\IMAC.exe
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\IMAC.deps.json
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\IMAC.runtimeconfig.json
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\IMAC.dll
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\IMAC.pdb
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.csproj.AssemblyReference.cache
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\MainWindow.g.cs
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\App.g.cs
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC_Content.g.cs
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC_MarkupCompile.cache
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC_MarkupCompile.lref
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\MainWindow.baml
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.g.resources
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.AssemblyInfoInputs.cache
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.AssemblyInfo.cs
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.csproj.CoreCompileInputs.cache
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.csproj.CopyComplete
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.dll
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\refint\IMAC.dll
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.pdb
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\IMAC.genruntimeconfig.cache
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\obj\Release\net6.0-windows\ref\IMAC.dll

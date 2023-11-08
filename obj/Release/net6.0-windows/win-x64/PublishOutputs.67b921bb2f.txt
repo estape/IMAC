@@ -1,0 +1,4 @@
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\publish\win-x64\IMAC.pdb
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\publish\win-x64\runtimes\win-x64\native\WebView2Loader.dll
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\publish\win-x64\WebView2Loader.dll
+E:\Rodrigo\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\publish\win-x64\IMAC.exe

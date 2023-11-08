@@ -1,0 +1,4 @@
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\publish\win-x86\IMAC.pdb
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\publish\win-x86\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\publish\win-x86\WebView2Loader.dll
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\publish\win-x86\IMAC.exe

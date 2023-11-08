@@ -1,0 +1,11 @@
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\publish\IMAC.exe
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\publish\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\publish\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\publish\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\publish\IMAC.dll
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\publish\IMAC.deps.json
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\publish\IMAC.runtimeconfig.json
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\publish\IMAC.pdb
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\publish\Microsoft.Web.WebView2.Core.dll
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\publish\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Rodrigo\SkyDrive\Documentos\Game_Dev\VisualStudio\IMAC\IMAC\bin\Release\net6.0-windows\publish\Microsoft.Web.WebView2.Wpf.dll
