@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Rodrigo\\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\\Documentos\\Game_Dev\\VisualStudio\\IMAC\\IMAC\\IMAC.csproj": {}
+    "D:\\Usuarios\\Rodrigo\\Documentos\\GitHub\\IMAC\\IMAC.csproj": {}
   },
   "projects": {
-    "E:\\Rodrigo\\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\\Documentos\\Game_Dev\\VisualStudio\\IMAC\\IMAC\\IMAC.csproj": {
+    "D:\\Usuarios\\Rodrigo\\Documentos\\GitHub\\IMAC\\IMAC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Rodrigo\\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\\Documentos\\Game_Dev\\VisualStudio\\IMAC\\IMAC\\IMAC.csproj",
+        "projectUniqueName": "D:\\Usuarios\\Rodrigo\\Documentos\\GitHub\\IMAC\\IMAC.csproj",
         "projectName": "IMAC",
-        "projectPath": "E:\\Rodrigo\\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\\Documentos\\Game_Dev\\VisualStudio\\IMAC\\IMAC\\IMAC.csproj",
+        "projectPath": "D:\\Usuarios\\Rodrigo\\Documentos\\GitHub\\IMAC\\IMAC.csproj",
         "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
-        "outputPath": "E:\\Rodrigo\\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\\Documentos\\Game_Dev\\VisualStudio\\IMAC\\IMAC\\obj\\",
+        "outputPath": "D:\\Usuarios\\Rodrigo\\Documentos\\GitHub\\IMAC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -46,7 +51,7 @@
           "dependencies": {
             "Microsoft.Web.WebView2": {
               "target": "Package",
-              "version": "[1.0.1823.32, )"
+              "version": "[1.0.2478.35, )"
             }
           },
           "imports": [
@@ -68,7 +73,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }
