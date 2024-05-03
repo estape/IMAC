@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net6.0-windows7.0": {
-      "Microsoft.Web.WebView2/1.0.1823.32": {
+      "Microsoft.Web.WebView2/1.0.2478.35": {
         "type": "package",
         "compile": {
           "lib/netcoreapp3.0/Microsoft.Web.WebView2.Core.dll": {
@@ -47,10 +47,10 @@
     }
   },
   "libraries": {
-    "Microsoft.Web.WebView2/1.0.1823.32": {
-      "sha512": "ppRcWBUNggFIqyJp7PfgS4Oe8/7yli/mHcTNDOaqo3ZzJWnv9AOr0WE9ceEP5SPs1M7CQ3QvdGMR7KNz0v09EA==",
+    "Microsoft.Web.WebView2/1.0.2478.35": {
+      "sha512": "iDlxm6Gv4CU64ch4nc4DZXLbb5VRYNJb3IjGC+zJdEVIHjqt8Fed3JeThXIhpIwf49ke4e/CULYJXfNiG0sNhg==",
       "type": "package",
-      "path": "microsoft.web.webview2/1.0.1823.32",
+      "path": "microsoft.web.webview2/1.0.2478.35",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -91,7 +91,7 @@
         "lib/netcoreapp3.0/Microsoft.Web.WebView2.WinForms.xml",
         "lib/netcoreapp3.0/Microsoft.Web.WebView2.Wpf.dll",
         "lib/netcoreapp3.0/Microsoft.Web.WebView2.Wpf.xml",
-        "microsoft.web.webview2.1.0.1823.32.nupkg.sha512",
+        "microsoft.web.webview2.1.0.2478.35.nupkg.sha512",
         "microsoft.web.webview2.nuspec",
         "runtimes/win-arm64/native/WebView2Loader.dll",
         "runtimes/win-arm64/native_uap/Microsoft.Web.WebView2.Core.dll",
@@ -109,6 +109,7 @@
         "tools/wv2winrt/System.Memory.dll",
         "tools/wv2winrt/System.Numerics.Vectors.dll",
         "tools/wv2winrt/System.Runtime.CompilerServices.Unsafe.dll",
+        "tools/wv2winrt/codegen_util.dll",
         "tools/wv2winrt/concrt140_app.dll",
         "tools/wv2winrt/cs/System.CommandLine.resources.dll",
         "tools/wv2winrt/de/System.CommandLine.resources.dll",
@@ -124,6 +125,7 @@
         "tools/wv2winrt/pt-BR/System.CommandLine.resources.dll",
         "tools/wv2winrt/ru/System.CommandLine.resources.dll",
         "tools/wv2winrt/tr/System.CommandLine.resources.dll",
+        "tools/wv2winrt/type_hierarchy.dll",
         "tools/wv2winrt/vcamp140_app.dll",
         "tools/wv2winrt/vccorlib140_app.dll",
         "tools/wv2winrt/vcomp140_app.dll",
@@ -140,24 +142,24 @@
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
-      "Microsoft.Web.WebView2 >= 1.0.1823.32"
+      "Microsoft.Web.WebView2 >= 1.0.2478.35"
     ]
   },
   "packageFolders": {
     "C:\\Users\\rodri\\.nuget\\packages\\": {},
-    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Rodrigo\\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\\Documentos\\Game_Dev\\VisualStudio\\IMAC\\IMAC\\IMAC.csproj",
+      "projectUniqueName": "D:\\Usuarios\\Rodrigo\\Documentos\\GitHub\\IMAC\\IMAC.csproj",
       "projectName": "IMAC",
-      "projectPath": "E:\\Rodrigo\\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\\Documentos\\Game_Dev\\VisualStudio\\IMAC\\IMAC\\IMAC.csproj",
+      "projectPath": "D:\\Usuarios\\Rodrigo\\Documentos\\GitHub\\IMAC\\IMAC.csproj",
       "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
-      "outputPath": "E:\\Rodrigo\\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\\Documentos\\Game_Dev\\VisualStudio\\IMAC\\IMAC\\obj\\",
+      "outputPath": "D:\\Usuarios\\Rodrigo\\Documentos\\GitHub\\IMAC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -181,6 +183,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -189,7 +196,7 @@
         "dependencies": {
           "Microsoft.Web.WebView2": {
             "target": "Package",
-            "version": "[1.0.1823.32, )"
+            "version": "[1.0.2478.35, )"
           }
         },
         "imports": [
@@ -211,7 +218,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

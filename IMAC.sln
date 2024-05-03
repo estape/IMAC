@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMAC", "IMAC\IMAC.csproj", "{F5EAC5CA-9442-4E67-ACA3-2427B583B4C6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMAC", "IMAC.csproj", "{F5EAC5CA-9442-4E67-ACA3-2427B583B4C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

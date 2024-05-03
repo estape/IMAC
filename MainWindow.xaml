@@ -38,16 +38,16 @@
                     <RowDefinition Height="31*"/>
                     <RowDefinition Height="68*"/>
                 </Grid.RowDefinitions>
-                <Border x:Name="Heat5g" BorderBrush="Black" BorderThickness="1" Margin="42,0,0,18" Background="#FFC792EF" Grid.RowSpan="2" HorizontalAlignment="Left" Width="20" Height="18" VerticalAlignment="Bottom"/>
-                <TextBlock x:Name="TextHeat5g" TextWrapping="Wrap" Text="Cobertura 5G" Margin="74,0,0,19" VerticalAlignment="Bottom" Grid.RowSpan="2" HorizontalAlignment="Left" Width="76"/>
-                <Border x:Name="Heat4g" BorderBrush="Black" BorderThickness="1" Margin="42,0,0,59" Background="#FFD5777B" Grid.Row="1" Grid.RowSpan="2" HorizontalAlignment="Left" Width="20" Height="18" VerticalAlignment="Bottom"/>
-                <TextBlock x:Name="TextHeat4g" TextWrapping="Wrap" Text="Cobertura 4G" Margin="74,0,0,60" VerticalAlignment="Bottom" Grid.Row="1" Grid.RowSpan="2" HorizontalAlignment="Left" Width="76"/>
-                <Border x:Name="Heat3g" BorderBrush="Black" BorderThickness="1" Margin="42,0,0,32" Background="#FFF1A16B" Grid.Row="2" HorizontalAlignment="Left" Width="20" Height="18" VerticalAlignment="Bottom"/>
-                <TextBlock x:Name="TextHeat3g" TextWrapping="Wrap" Text="Cobertura 3G" Margin="74,0,0,33" VerticalAlignment="Bottom" Grid.Row="2" HorizontalAlignment="Left" Width="76"/>
-                <Border x:Name="Heat5g_Copy" BorderBrush="Black" BorderThickness="1" Margin="162,0,0,18" Background="#FFCFE68B" Grid.RowSpan="2" HorizontalAlignment="Left" Width="20" Height="18" VerticalAlignment="Bottom"/>
-                <TextBlock x:Name="TextHeat5g_Copy" TextWrapping="Wrap" Text="Cobertura 2G" Margin="194,0,0,19" Grid.RowSpan="2" HorizontalAlignment="Left" Width="86" Height="16" VerticalAlignment="Bottom"/>
-                <Border x:Name="HeatGSM" BorderBrush="Black" BorderThickness="1" Margin="162,0,0,59" Background="#FF9D9B98" Grid.Row="1" Grid.RowSpan="2" Height="18" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="20"/>
-                <TextBlock x:Name="TextHeatGSM" TextWrapping="Wrap" Margin="194,0,0,60" Text="Cobertura GSM" Grid.Row="1" Grid.RowSpan="2" Height="16" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="86"/>
+                <Border x:Name="Heat5g" BorderBrush="Black" BorderThickness="1" Margin="-175,0,0,10" Background="#FFC792EF" Grid.RowSpan="2" HorizontalAlignment="Center" Width="20" Height="18" VerticalAlignment="Center"/>
+                <TextBlock x:Name="TextHeat5g" TextWrapping="Wrap" Text="Cobertura 5G" Margin="-60,10,0,20" VerticalAlignment="Center" Grid.RowSpan="2" HorizontalAlignment="Center" Width="76"/>
+                <Border x:Name="Heat4g" BorderBrush="Black" BorderThickness="1" Margin="-175,0,0,45" Background="#FFD5777B" Grid.Row="1" Grid.RowSpan="2" HorizontalAlignment="Center" Height="18" VerticalAlignment="Center" Width="20"/>
+                <TextBlock x:Name="TextHeat4g" TextWrapping="Wrap" Text="Cobertura 4G" Margin="-65,10,0,55" VerticalAlignment="Center" Grid.Row="1" Grid.RowSpan="2" HorizontalAlignment="Center" Width="76"/>
+                <Border x:Name="Heat3g" BorderBrush="Black" BorderThickness="1" Margin="-175,0,0,25" Background="#FFF1A16B" Grid.Row="2" HorizontalAlignment="Center" Width="20" Height="18" VerticalAlignment="Center"/>
+                <TextBlock x:Name="TextHeat3g" TextWrapping="Wrap" Text="Cobertura 3G" Margin="-65,10,0,35" VerticalAlignment="Center" Grid.Row="2" HorizontalAlignment="Center" Width="76"/>
+                <Border x:Name="Heat5g_Copy" BorderBrush="Black" BorderThickness="1" Margin="65,0,0,10" Background="#FFCFE68B" Grid.RowSpan="2" HorizontalAlignment="Center" Width="20" Height="18" VerticalAlignment="Center"/>
+                <TextBlock x:Name="TextHeat5g_Copy" TextWrapping="Wrap" Text="Cobertura 2G" Margin="190,10,0,20" Grid.RowSpan="2" HorizontalAlignment="Left" Width="86" Height="16" VerticalAlignment="Bottom"/>
+                <Border x:Name="HeatGSM" BorderBrush="Black" BorderThickness="1" Margin="65,0,0,45" Background="#FF9D9B98" Grid.Row="1" Grid.RowSpan="2" Height="18" VerticalAlignment="Center" HorizontalAlignment="Center" Width="20"/>
+                <TextBlock x:Name="TextHeatGSM" TextWrapping="Wrap" Margin="190,11,0,55" Text="Cobertura GSM" Grid.Row="1" Grid.RowSpan="2" Height="16" VerticalAlignment="Center" HorizontalAlignment="Center" Width="86"/>
             </Grid>
         </Viewbox>
     </Grid>

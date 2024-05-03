@@ -14,7 +14,7 @@
     "additionalProbingPaths": [
       "C:\\Users\\rodri\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\rodri\\.nuget\\packages",
-      "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {
       "System.Reflection.Metadata.MetadataUpdater.IsSupported": false,
